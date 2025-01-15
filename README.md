@@ -1,1 +1,3 @@
-# tesportofolio.github.io
+# portofolio
+Personal Portofolio
+by @M. Bima Ar Rozaq
